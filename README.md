@@ -33,3 +33,7 @@ This will install `puppet` in a ruby:alpine docker container
 ## puppet-lint
 
 This will install `puppet-lint` in a ruby:alpine docker container
+
+## varnish
+
+This will install `varnish` in an alpine:edge docker container
